@@ -1,0 +1,90 @@
+body{
+    background: linear-gradient(71.17deg, #FEAF00 109.35%, #F8D442 90.12%);
+color: #6C6C6C;
+
+}
+
+.input{
+    position: relative;
+    width: 385px;
+height: 475px;
+top: 75px;
+left: 493px;
+gap: 0px;
+border-radius: 20px;
+opacity: 0px;
+background-color: #FFFF;
+}
+
+.input .h1{
+
+        text-align: center;
+position: relative;
+top: -10px;
+font-size: 26px;
+color:#000000;
+
+}
+.input img{
+    position: relative;
+    left:50px;
+    top: 38px;
+    width: 5px;height: 26px;
+}
+
+.input h2{
+    text-align: center;
+    font-size: 21px;
+    margin-top: 25px;
+    color:#000000;
+}
+.input p{
+    text-align: center;
+    font-size: 14px;
+    color: #6C6C6C;
+
+}
+.input input{
+width: 325px;
+height: 34px;
+border-radius: 4px;
+border: 1px solid 
+#E5E5E5;
+color: 
+#E5E5E5;
+outline: none;
+margin-left: 25px;
+text-indent: 20px;
+position: relative;
+bottom: 10px;
+top: 10px;
+
+}
+
+.input h3{
+font-size: 14px;   
+position: relative;
+left: 30px;
+top: 18px;
+}
+.btn{
+    position: relative;
+    left: 25px;
+    top: 35px;
+    width: 323px;
+    height: 38px;
+    border-radius: 4px;
+    border: 1px solid;
+    background: #FEAF00;
+color: white;
+}
+.input .p{
+    text-align: center;
+    font-size: 14px;
+    color: #6C6C6C;
+position: relative;
+top: 55px;
+}
+.a{
+    color: #FEAF00;
+}

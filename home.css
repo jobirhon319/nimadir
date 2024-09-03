@@ -1,0 +1,197 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color:#000000 ;
+    width: 50px;
+    height: 17px;
+    margin-left: 14px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17.07px;
+    position: relative;
+    
+
+}
+.yon{
+
+    width: 240px;
+    height: 100vh;
+    background-color:#F2EAE1;
+
+}
+.yon img{
+
+    width: 110px;
+    height: 110px;
+    margin-top: 30px;
+    margin-left: 60px;
+    border-radius: 50%;
+
+}
+.yon h3{
+    width: 219.05px;
+    height: 24px;
+ 
+    margin-left:25px;
+    color: #000000;
+
+}
+.yon h4{
+    width: 130px;
+    height: 21px;
+    margin-top: 10px;
+    margin-left: 55px;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+}
+.yon h6{
+    width: 48px;
+    height: 17px;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 85px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #FEAF00;
+}
+.fa-graduation-cap{
+    color: #74C1ED;
+
+}
+.bx-bookmark{
+    font-size: 30px;
+    color: #EE95C5;
+}
+.fa-dollar-sign{
+    color: #F6C762;
+}
+.fa-user{
+    
+    color: white;
+}
+.yon li{
+    margin-top: 5px;
+    position: relative;
+    top: 30px;
+margin-left: 80px;
+width: 114px;
+height: 17px;
+line-height: 18px;
+font-size: 14px;
+font-weight: 400;
+color: #000000;
+}
+
+.yon i{
+    position: relative;
+    right: 10px;
+}
+
+.yon-pas{
+    margin-top: -50px;
+    margin-left: 95px;
+    width: 114px;
+    height: 17px;
+    line-height: 18px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+}
+
+li:hover{
+    width: 170px;
+    height: 31px;
+    border-radius: 4px;
+    background-color: #FEAF00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 35px;
+    color: white;
+    transition: 0.4s all;
+}
+
+/* ortasi */
+.orovchi div i{
+    width: 49px;
+    height: 38px;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 29px;
+}
+.orovchi div p{
+    margin-top: 8px;
+    margin-left: 28px;
+    font-size: 17px;
+}
+.orovchi div .pip{
+    margin-top: 8px;
+    margin-left: 28px;
+    font-size: 17px;
+    color: white;
+}
+.orovchi div h2{
+    margin-top: 30px;
+    margin-left: 185px;
+}
+/* .search{
+    margin-top: -850px;
+} */
+.orovchi{
+    margin-top: -550px;
+    display: flex;
+    margin-left: 260px;
+    
+}
+.birinchi{
+    border-radius: 10px;
+width: 237px;
+height: 160px;
+background-color: #F0F9FF;
+}
+.barchasi{
+    display: flex;
+    gap: 10px;
+    margin-left: 25px;
+    position: relative;
+    bottom: 50px;
+}
+.ikkinchi{
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 237px;
+    height: 160px;
+    background-color: #FEF6FB;
+}
+
+
+.uchinchi{
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 237px;
+    height: 160px;
+    background-color: #FEFBEC;
+}
+
+.turinchi{
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 237px;
+    height: 160px;
+    background-color: #FEAF00;
+}
